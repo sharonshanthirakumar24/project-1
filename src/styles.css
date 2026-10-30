@@ -1,6 +1,6 @@
 :root {
   font-family: 'DM Sans', sans-serif;
-  color: #25261f;
+  color: #328043;
   background: #f7f6f2;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -8,9 +8,9 @@
   -moz-osx-font-smoothing: grayscale;
   font-optical-sizing: auto;
   font-weight: 400;
-  --bg: #f7f6f2;
-  --surface: #eeede7;
-  --surface-strong: #e8e7df;
+  --bg: #bf5237;
+  --surface: #b2a035;
+  --surface-strong: #e72a43
   --text: #25261f;
   --muted: #77796f;
   --line: #deded5;
